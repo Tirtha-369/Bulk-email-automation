@@ -1,0 +1,11 @@
+{
+  "sender_email": "your_email@gmail.com",
+  "app_password": "YOUR_APP_PASSWORD",
+  
+  "subject": "Application for Data Scientist Position",
+  "body": "Hi\n I hope this message finds you well.\n\nI am writing to express my interest in the Data Scientist position at Prime Infoserv. As a final-year B.Sc. Digital Forensics student with practical experience handling security operations for multiple clients, I believe I can make a valuable contribution to your team.\n\nI have attached my resume and cover letter for your kind consideration. I would be grateful for the opportunity to discuss how my background, certifications.\n\nThank you for your time and consideration. I look forward to hearing from you.\n\nBest regards,\nTirthabrata Mandal",
+  "attachments": [
+    "attachments/resume.pdf",
+    "attachments/cover_letter.pdf"
+  ]
+}
